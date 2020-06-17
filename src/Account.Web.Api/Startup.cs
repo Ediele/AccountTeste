@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Account.Application.Core.Interface.Repository;
+using Account.Infraestructure.Data;
+using Account.Infraestructure.Repository;
+using Account.Infraestructure.Repository.Interface;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -25,6 +29,14 @@ namespace Account.Web.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<DbUsersConectionSettings>(
+                    Configuration.GetSection(nameof(DbUsersConectionSettings)));
+
+            services.AddSingleton<IMongoConfigurationSettings>(sp =>
+            sp.GetRequiredService<IOptions<DbUsersConectionSettings>>().Value);
+
+            services.AddScoped<IUserRepository, UserRepository>();
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 

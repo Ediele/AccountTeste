@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\bin\Debug\netstandard2.0\Account.Infraestructure.deps.json
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\bin\Debug\netstandard2.0\Account.Infraestructure.dll
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\bin\Debug\netstandard2.0\Account.Infraestructure.pdb
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\obj\Debug\netstandard2.0\Account.Infraestructure.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\obj\Debug\netstandard2.0\Account.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\obj\Debug\netstandard2.0\Account.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\obj\Debug\netstandard2.0\Account.Infraestructure.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\obj\Debug\netstandard2.0\Account.Infraestructure.dll
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\obj\Debug\netstandard2.0\Account.Infraestructure.pdb
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\bin\Debug\netstandard2.0\Account.Application.Core.dll
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\bin\Debug\netstandard2.0\Account.Application.Core.pdb
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\src\Account.Infraestructure\obj\Debug\netstandard2.0\Account.Infraestructure.csproj.CopyComplete

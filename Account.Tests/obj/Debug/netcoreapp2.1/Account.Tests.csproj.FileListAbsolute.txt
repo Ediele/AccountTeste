@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\bin\Debug\netcoreapp2.1\Account.Tests.deps.json
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\bin\Debug\netcoreapp2.1\Account.Tests.runtimeconfig.json
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\bin\Debug\netcoreapp2.1\Account.Tests.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\bin\Debug\netcoreapp2.1\Account.Tests.dll
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\obj\Debug\netcoreapp2.1\Account.Tests.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\obj\Debug\netcoreapp2.1\Account.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\obj\Debug\netcoreapp2.1\Account.Tests.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\obj\Debug\netcoreapp2.1\Account.Tests.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\bin\Debug\netcoreapp2.1\Account.Application.Core.dll
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\bin\Debug\netcoreapp2.1\Account.Application.Core.pdb
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\obj\Debug\netcoreapp2.1\Account.Tests.csproj.CopyComplete
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\bin\Debug\netcoreapp2.1\Account.Tests.pdb
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\obj\Debug\netcoreapp2.1\Account.Tests.dll
+C:\Users\Usuario\Documents\ProjetosGit\AccountTeste\Account.Tests\obj\Debug\netcoreapp2.1\Account.Tests.pdb
