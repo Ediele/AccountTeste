@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\2 - Domain\\Account.Application.Core\\Account.Application.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\Account.Application.Core\\Account.Application.Core.csproj",
       "projectName": "Account.Application.Core",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\2 - Domain\\Account.Application.Core\\Account.Application.Core.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\Account.Application.Core\\Account.Application.Core.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\2 - Domain\\Account.Application.Core\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\Account.Application.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -11805,11 +11805,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\1 - UI\\Account.Web.Api\\Account.Web.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\Account.Web.Api\\Account.Web.Api.csproj",
       "projectName": "Account.Web.Api",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\1 - UI\\Account.Web.Api\\Account.Web.Api.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\Account.Web.Api\\Account.Web.Api.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\1 - UI\\Account.Web.Api\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\Account.Web.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

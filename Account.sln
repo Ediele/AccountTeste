@@ -9,11 +9,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infraestructure", "3 - Infraestructure", "{0C331C9E-8839-4B66-9EE4-386A7B310165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Web.Api", "1 - UI\Account.Web.Api\Account.Web.Api.csproj", "{5F8A1169-8244-4751-AAF8-28F484D1D9D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Web.Api", "src\Account.Web.Api\Account.Web.Api.csproj", "{5F8A1169-8244-4751-AAF8-28F484D1D9D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Application.Core", "2 - Domain\Account.Application.Core\Account.Application.Core.csproj", "{CB4E97A3-07B5-44AA-A7CF-868EDBDA9046}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Application.Core", "src\Account.Application.Core\Account.Application.Core.csproj", "{CB4E97A3-07B5-44AA-A7CF-868EDBDA9046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Infraestructure", "3 - Infraestructure\Account.Infraestructure\Account.Infraestructure.csproj", "{D8D3D395-F6DF-4F73-B585-1A5C7E953488}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account.Infraestructure", "src\Account.Infraestructure\Account.Infraestructure.csproj", "{D8D3D395-F6DF-4F73-B585-1A5C7E953488}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

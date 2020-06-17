@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\3 - Infraestructure\\Account.Infraestructure\\Account.Infraestructure.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\Account.Infraestructure\\Account.Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\3 - Infraestructure\\Account.Infraestructure\\Account.Infraestructure.csproj": {
+    "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\Account.Infraestructure\\Account.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\3 - Infraestructure\\Account.Infraestructure\\Account.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\Account.Infraestructure\\Account.Infraestructure.csproj",
         "projectName": "Account.Infraestructure",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\3 - Infraestructure\\Account.Infraestructure\\Account.Infraestructure.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\Account.Infraestructure\\Account.Infraestructure.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\3 - Infraestructure\\Account.Infraestructure\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\ProjetosGit\\AccountTeste\\src\\Account.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
