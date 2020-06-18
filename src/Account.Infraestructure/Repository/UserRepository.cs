@@ -9,6 +9,7 @@ namespace Account.Infraestructure.Repository
     {
         public UserRepository(IMongoConfigurationSettings settings) : base(settings)
         {
+
         }
     }
 }

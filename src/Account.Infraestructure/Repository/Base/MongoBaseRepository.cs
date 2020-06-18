@@ -12,7 +12,7 @@ namespace Account.Infraestructure.Repository.Base
         private readonly IMongoCollection<T> _collectionItem;
 
         public MongoBaseRepository(IMongoConfigurationSettings settings)
-        {
+        {    
             var client = new MongoClient(settings.ConnectionString);
             var database = client.GetDatabase(settings.DatabaseName);
 
@@ -35,9 +35,9 @@ namespace Account.Infraestructure.Repository.Base
             _collectionItem.InsertOne(entity);
         }
 
-        public void Update(string id, T entity)
+        public void Update(T entity)
         {
-            _collectionItem.ReplaceOne(u => u.Id == id, entity);
+            _collectionItem.ReplaceOne(u => u.Id == entity.Id, entity);
         }
 
 

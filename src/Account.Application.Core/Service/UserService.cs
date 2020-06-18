@@ -36,9 +36,9 @@ namespace Account.Application.Core.Service
             _userRepository.Remove(id);
         }
 
-        public void Update(string id, User user)
+        public void Update(User user)
         {
-            _userRepository.Update(id, user);           
+            _userRepository.Update(user);           
         }
     }
 }

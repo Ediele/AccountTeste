@@ -10,6 +10,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Account.Web.Api.Controllers
 {
+    [Route("api/[controller]")]
+    [ApiController]
     public class UserController : Controller
     {
         private readonly IUserService _userService;
@@ -26,8 +28,8 @@ namespace Account.Web.Api.Controllers
             return View();
         }
         
-        [HttpPost]
-        public ActionResult Create(User user)
+        [HttpPost("Create")]
+        public ActionResult Create([FromBody] User user)
         {
             try
             {
@@ -42,12 +44,12 @@ namespace Account.Web.Api.Controllers
         }
 
         
-        [HttpPost]
-        public ActionResult Update(string id, User user)
+        [HttpPost("Update")]
+        public ActionResult Update ([FromBody]User user)
         {
             try
             {
-                _userService.Update(id, user);
+                _userService.Update(user);
             }
             catch (Exception ex)
             {
@@ -57,7 +59,7 @@ namespace Account.Web.Api.Controllers
             return Json(Result);
         }
         
-        [HttpPost]
+        [HttpDelete("Remove/{id}")]
         public ActionResult Remove(string id)
         {
             try
@@ -72,8 +74,8 @@ namespace Account.Web.Api.Controllers
             return Json(Result);
         }
         
-        [HttpGet]        
-        public ActionResult Get(string id)
+        [HttpGet("GetById/{id}")]        
+        public ActionResult GetById(string id)
         {
             try
             {
@@ -87,12 +89,18 @@ namespace Account.Web.Api.Controllers
             return Json(Result);
         }
        
-        [HttpGet]
-        public ActionResult Get()
+        [HttpGet("GetAll")]
+        public ActionResult GetAll()
         {
             try
             {
-                Result.Items.AddRange(_userService.Get());
+                var users = _userService.Get();
+
+                if(users!= null)
+                {
+                    Result.Items.AddRange(_userService.Get());
+                }
+                
             }
             catch (Exception ex)
             {

@@ -8,7 +8,7 @@ namespace Account.Application.Core.Interface.Service
         IList<User> Get();
         User Get(string id);
         void Create(User user);
-        void Update(string id, User user);
+        void Update(User user);
         void Remove(string id);
     }
 }

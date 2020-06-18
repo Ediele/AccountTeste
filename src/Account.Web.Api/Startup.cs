@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Account.Application.Core.Interface.Repository;
+using Account.Application.Core.Interface.Service;
+using Account.Application.Core.Service;
 using Account.Infraestructure.Data;
 using Account.Infraestructure.Repository;
 using Account.Infraestructure.Repository.Interface;
@@ -36,6 +38,8 @@ namespace Account.Web.Api
             sp.GetRequiredService<IOptions<DbUsersConectionSettings>>().Value);
 
             services.AddScoped<IUserRepository, UserRepository>();
+
+            services.AddScoped<IUserService, UserService>();            
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
