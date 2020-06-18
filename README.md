@@ -1,6 +1,6 @@
 # AccountTeste   
 
-Projeto de controle de usuários e perfil que foi criado para um teste na empresa Keezag. 
+Projeto de controle de usuários e perfis que foi criado para um teste na empresa Keezag. 
 
   
 # Premissas do desenvolvimento   
